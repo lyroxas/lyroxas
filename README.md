@@ -1,6 +1,4 @@
-<h1 align="center"> </🌼LYROX>  
- <img href="https://discord.com/users/1006333961410183320" src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Serif&pause=1000&color=376074&background=69FF2000&center=true&vCenter=true&width=435&lines=For+%F0%9F%93%A9+Support+And+%F0%9F%93%9E+Communication;Contact+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+fivesobes" alt="Beş Was Here" />
-</h1>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=100&pause=1000&color=404040A4&width=800&height=150&lines=Contact+the+Lyroxas" alt="Typing SVG" /></a>
 <p align="center">
  <a align="center" href="https://discord.com/users/1006333961410183320" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
