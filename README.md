@@ -59,3 +59,4 @@
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=lyroxas&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%150" height="150px" alt="stats" align="center" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyroxas&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true"width="%100" height="150px" align="center" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=100&pause=1000&color=404040A4&repeat=false&width=800&height=150&lines=Contact+the+Lyroxas" alt="Typing SVG" /></a>
